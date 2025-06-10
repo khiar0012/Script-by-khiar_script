@@ -1,2 +1,1 @@
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Turtle-Brand/Turtle-Lib/main/source.lua"))()
-local w = lib:Window("INF HEALTH By khiar_script🇮🇩")
+loadstring(game:HttpGet("https://pastebin.com/raw/hxQfnKvi"))()
